@@ -1,0 +1,6 @@
+azure-identity
+azure-mgmt-compute
+azure-mgmt-resource
+Flask
+python-dotenv
+redis
